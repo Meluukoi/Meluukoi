@@ -74,7 +74,7 @@ Nessus Essentials.
 
 ## Connect
 
-- LinkedIn: *(Add Link)*
-- Email: *(Add Email)*
-- Resume: *(Add PDF Link)*
+- LinkedIn: *(milad-kabiri-98154a261)*
+- Email: *(miladkabiri2@gmail.com)*
+- Resume: *()*
 
