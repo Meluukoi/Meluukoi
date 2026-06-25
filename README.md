@@ -1,64 +1,34 @@
+
 # Milad Kabiri
 
 ## Security Operations | Detection Engineering | Threat Hunting | Incident Response
 
-CompTIA Security+ certified cybersecurity professional with hands-on experience building enterprise-style Security Operations Center (SOC) labs using Splunk Enterprise, Sysmon, Active Directory, Microsoft Sentinel, Microsoft Entra ID, Nessus Essentials, and Wireshark.
+CompTIA Security+ certified cybersecurity professional focused on building enterprise-style Security Operations Center (SOC) environments and documenting practical blue-team investigations.
 
 ---
 
-## Professional Summary
+## About
 
-I build and document enterprise-style cybersecurity labs that simulate real-world Security Operations Center (SOC) workflows. My projects focus on security monitoring, detection engineering, threat hunting, incident response, Active Directory security monitoring, vulnerability management, and cloud identity security.
+I specialize in building realistic cybersecurity labs that simulate Security Operations Center (SOC) workflows. My portfolio demonstrates hands-on experience with security monitoring, detection engineering, threat hunting, incident response, Active Directory security, vulnerability management, and cloud identity monitoring.
 
-Rather than simply deploying security tools, I focus on understanding how attackers are detected, how analysts investigate security events, and how findings are validated and documented. Every project in my portfolio is designed to strengthen practical blue-team skills while following structured investigative methodologies that mirror real-world security operations.
-
-I am currently seeking an entry-level Security Operations Center (SOC) Analyst position where I can contribute to threat detection, incident response, and security monitoring while continuing to expand my knowledge of enterprise security technologies.
+Every project is designed around real-world investigative workflows with an emphasis on documentation, validation, and MITRE ATT&CK mapping rather than simply deploying security tools.
 
 ---
 
 ## Featured Projects
 
-### SOC Analyst Home Lab
-
-Designed and deployed an enterprise-style home lab integrating Splunk Enterprise, Sysmon, Windows Event Logs, Active Directory, and Wireshark to simulate Security Operations Center workflows.
-
-**Repository:** [SOC Analyst Home Lab](YOUR_LINK)
-
----
-
-### Splunk Detection Engineering Lab
-
-Developed detection logic using Splunk SPL and Sysmon telemetry to identify PowerShell activity, authentication events, DNS activity, network connections, and Active Directory account changes.
-
-**Repository:** [Splunk Detection Engineering Lab](YOUR_LINK)
+| Project | Description |
+|---------|-------------|
+| **SOC Analyst Home Lab** | Enterprise SOC environment integrating Splunk Enterprise, Sysmon, Active Directory, Windows Event Logs, and Wireshark. |
+| **Splunk Detection Engineering** | Detection development using Splunk SPL, Sysmon telemetry, and Windows Event Logs. |
+| **Splunk Threat Hunting** | Threat hunting using endpoint telemetry to investigate attacker behavior and reconstruct events. |
+| **SOC Incident Response** | SOC investigations including evidence collection, timeline reconstruction, and remediation recommendations. |
+| **Active Directory Security Monitoring** | Monitoring authentication, privileged groups, user management, and Active Directory security events. |
+| **Vulnerability Management** | Vulnerability identification, validation, prioritization, and remediation using Nessus Essentials. |
 
 ---
 
-### Splunk Threat Hunting Lab
-
-Performed hypothesis-driven threat hunting using Windows Event Logs and Sysmon telemetry to investigate attacker behavior, reconstruct events, and document investigative findings.
-
-**Repository:** [Splunk Threat Hunting Lab](YOUR_LINK)
-
----
-
-### SOC Incident Response Lab
-
-Conducted SOC-style investigations including alert validation, timeline reconstruction, evidence collection, MITRE ATT&CK mapping, and remediation recommendations.
-
-**Repository:** [SOC Incident Response Lab](YOUR_LINK)
-
----
-
-### Active Directory Security Monitoring
-
-Monitored and investigated critical Active Directory security events including user creation, password resets, privileged group modifications, and account deletions using Splunk Enterprise.
-
-**Repository:** [Active Directory Security Monitoring](YOUR_LINK)
-
----
-
-## Portfolio Architecture
+## Portfolio Roadmap
 
 ```text
 SOC Analyst Home Lab
@@ -74,98 +44,39 @@ SOC Analyst Home Lab
 
 ---
 
-## Core Competencies
+## Technology Stack
 
-### Security Operations
-
-* Security Monitoring
-* Log Analysis
-* Alert Investigation
-* Security Event Analysis
-
-### Detection Engineering
-
-* Splunk SPL
-* Windows Event Logs
-* Sysmon Telemetry
-* MITRE ATT&CK Mapping
-
-### Threat Hunting
-
-* Hypothesis-Driven Hunting
-* Timeline Reconstruction
-* Endpoint Investigation
-* IOC Analysis
-
-### Identity Security
-
-* Active Directory
-* Microsoft Entra ID
-* Authentication Monitoring
-* Privileged Account Monitoring
-
-### Vulnerability Management
-
-* Nessus Essentials
-* Vulnerability Validation
-* Risk Assessment
-* Remediation Documentation
-
-### Networking
-
-* Wireshark
-* TCP/IP
-* DNS
-* HTTP/HTTPS
-
-### Cloud Security
-
-* Microsoft Sentinel
-* Azure Monitor
-* Log Analytics Workspace
-
----
-
-## Technical Skills
-
-| Category                 | Technologies                          |
-| ------------------------ | ------------------------------------- |
-| SIEM                     | Splunk Enterprise, Microsoft Sentinel |
-| Endpoint Telemetry       | Sysmon, Windows Event Logs            |
-| Identity                 | Active Directory, Microsoft Entra ID  |
-| Vulnerability Management | Nessus Essentials                     |
-| Networking               | Wireshark, TCP/IP, DNS                |
-| Operating Systems        | Windows 10/11, Windows Server         |
+| Category | Technologies |
+|----------|--------------|
+| SIEM | Splunk Enterprise, Microsoft Sentinel |
+| Endpoint | Sysmon, Windows Event Logs |
+| Identity | Active Directory, Microsoft Entra ID |
+| Vulnerability Management | Nessus Essentials |
+| Networking | Wireshark, TCP/IP, DNS, HTTP/HTTPS |
+| Operating Systems | Windows 10/11, Windows Server |
 
 ---
 
 ## Certifications
 
-* CompTIA Security+ (SY0-701)
-* Google Cybersecurity Professional Certificate
+- CompTIA Security+ (SY0-701)
+- Google Cybersecurity Professional Certificate
 
 ---
 
-## Currently Developing
+## Currently Expanding
 
-* Microsoft Defender XDR
-* Sigma Rules
-* KQL (Kusto Query Language)
-* Detection Engineering
-* Microsoft Sentinel Analytics Rules
-
----
-
-## Professional Goal
-
-My objective is to begin my career as a Security Operations Center (SOC) Analyst where I can apply my hands-on experience in security monitoring, detection engineering, and incident response while continuing to grow as a blue-team cybersecurity professional.
+- Microsoft Defender XDR
+- Kusto Query Language (KQL)
+- Sigma Rules
+- Detection Engineering
+- Microsoft Sentinel Analytics
 
 ---
 
-## Contact
+## Connect
 
-**Email:** [your@email.com](mailto:your@email.com)
+- LinkedIn: *(Add Link)*
+- Email: *(Add Email)*
+- Resume: *(Add PDF Link)*
 
-**LinkedIn:** https://linkedin.com/in/yourprofile
-
-**GitHub Portfolio:** https://github.com/Meluukoi
