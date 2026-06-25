@@ -44,14 +44,14 @@ SOC Analyst Home Lab
 
 
 ## Core Technologies
-Splunk Enterprise
-Sysmon
-Windows Event Logs
-Microsoft Sentinel
-Microsoft Entra ID
-Active Directory
-Wireshark
-Nessus Essentials
+Splunk Enterprise,
+Sysmon,
+Windows Event Logs,
+Microsoft Sentinel,
+Microsoft Entra ID,
+Active Directory,
+Wireshark,
+Nessus Essentials.
 
 
 
