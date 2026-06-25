@@ -45,7 +45,6 @@ SOC Analyst Home Lab
 
 ## Core Technologies
 Splunk Enterprise
-
 Sysmon
 Windows Event Logs
 Microsoft Sentinel
