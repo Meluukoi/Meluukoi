@@ -76,5 +76,5 @@ Nessus Essentials.
 
 - LinkedIn: *(milad-kabiri-98154a261)*
 - Email: *(miladkabiri2@gmail.com)*
-- Resume: *(file:///C:/Users/milad/Downloads/Milad_Kabiri_SOC_Analyst_Resume_v1.pdf)*
+- Resume: *()*
 
