@@ -7,22 +7,22 @@ CompTIA Security+ certified cybersecurity professional focused on building enter
 
 ---
 
-## About
+## Professional Overview
 
-I specialize in building realistic cybersecurity labs that simulate Security Operations Center (SOC) workflows. My portfolio demonstrates hands-on experience with security monitoring, detection engineering, threat hunting, incident response, Active Directory security, vulnerability management, and cloud identity monitoring.
+I design, build, and document enterprise-style cybersecurity labs that simulate real Security Operations Center (SOC) environments. My portfolio demonstrates hands-on experience across security monitoring, detection engineering, threat hunting, incident response, Active Directory security, vulnerability management, and cloud identity monitoring.
 
-Every project is designed around real-world investigative workflows with an emphasis on documentation, validation, and MITRE ATT&CK mapping rather than simply deploying security tools.
+Every repository emphasizes investigative methodology, technical validation, structured documentation, and MITRE ATT&CK mapping to mirror real-world blue-team workflows.
 
 ---
 
 ## Featured Projects
 
-| Project | Description |
+| Repository |Focus|
 |---------|-------------|
 | **SOC Analyst Home Lab** | Enterprise SOC environment integrating Splunk Enterprise, Sysmon, Active Directory, Windows Event Logs, and Wireshark. |
 | **Splunk Detection Engineering** | Detection development using Splunk SPL, Sysmon telemetry, and Windows Event Logs. |
 | **Splunk Threat Hunting** | Threat hunting using endpoint telemetry to investigate attacker behavior and reconstruct events. |
-| **SOC Incident Response** | SOC investigations including evidence collection, timeline reconstruction, and remediation recommendations. |
+| **SOC Incident Response** | SOC investigations, including evidence collection, timeline reconstruction, and remediation recommendations. |
 | **Active Directory Security Monitoring** | Monitoring authentication, privileged groups, user management, and Active Directory security events. |
 | **Vulnerability Management** | Vulnerability identification, validation, prioritization, and remediation using Nessus Essentials. |
 
@@ -42,20 +42,19 @@ SOC Analyst Home Lab
 └── Microsoft Sentinel SIEM
 ```
 
----
 
-## Technology Stack
+## Core Technologies
+Splunk Enterprise
 
-| Category | Technologies |
-|----------|--------------|
-| SIEM | Splunk Enterprise, Microsoft Sentinel |
-| Endpoint | Sysmon, Windows Event Logs |
-| Identity | Active Directory, Microsoft Entra ID |
-| Vulnerability Management | Nessus Essentials |
-| Networking | Wireshark, TCP/IP, DNS, HTTP/HTTPS |
-| Operating Systems | Windows 10/11, Windows Server |
+Sysmon
+Windows Event Logs
+Microsoft Sentinel
+Microsoft Entra ID
+Active Directory
+Wireshark
+Nessus Essentials
 
----
+
 
 ## Certifications
 
